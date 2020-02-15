@@ -1,4 +1,4 @@
-# conatiner-security
+# container-security
 
 Examples of opensource software to quickly scan Dockerfiles and/or docker images in a way that can easily be added to a build pipeline.
 
